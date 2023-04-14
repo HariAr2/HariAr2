@@ -24,6 +24,15 @@ My passion for full stack development drives me to continuously improve my skill
 **CONCLUSION🖤:**
 
 In summary, I am a student from Chennai currently studying at SRM, with a strong interest in full stack development. I am enthusiastic about creating web applications and have been actively learning and implementing various technologies. I believe that effective documentation, including well-structured README.md files, is vital in software development, and I am committed to creating high-quality projects on GitHub. I am excited about my journey in the world of full stack development and the opportunities it holds for me in the future!
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/wiiwake3101"><img src="https://github-readme-stats.vercel.app/api?username=HariAr2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wiiwake3101's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/wiiwake3101/Library-Management-Using-Python-Version-3.7.5-with-Mysql-5.5-server" align="left"><img align="left" width="45%" src= /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <!--
 **HariAr2/HariAr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
