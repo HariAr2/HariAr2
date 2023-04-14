@@ -25,10 +25,10 @@ My passion for full stack development drives me to continuously improve my skill
 
 In summary, I am a student from Chennai currently studying at SRM, with a strong interest in full stack development. I am enthusiastic about creating web applications and have been actively learning and implementing various technologies. I believe that effective documentation, including well-structured README.md files, is vital in software development, and I am committed to creating high-quality projects on GitHub. I am excited about my journey in the world of full stack development and the opportunities it holds for me in the future!
 
-**BADGES**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariAr2" />
+### **BADGES:**
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HariAr2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariAr2" />
+
 <!--
 **HariAr2/HariAr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
