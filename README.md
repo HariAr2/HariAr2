@@ -1,45 +1,27 @@
-### Hi there 👋
-**INTRODUCTION:**
+<h1 align="center">Hi 👋, I'm Hari Aravindh</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
-Hello there! My name is Hari Aravindh and I come from the vibrant city of Chennai, located in the southern part of India. I am currently pursuing my studies at SRM Institute of Science and Technology, where I am honing my skills in full stack development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariar2&label=Profile%20views&color=0e75b6&style=flat" alt="hariar2" /> </p>
 
-**EDUCATIONAL BACKGROUND🏫:**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariar2" alt="hariar2" /></a> </p>
 
-I am a dedicated and passionate learner, constantly striving to expand my knowledge and skillset in the field of computer science. I am currently enrolled in BTech(CSE) at SRM, where I am gaining hands-on experience in various programming languages, frameworks, and tools related to full stack development.
+- 🌱 I’m currently learning **Front End Development**
 
-**INTEREST IN FULLSTACK DEVELOPMENT🖥:**
+- 💬 Ask me about **C,C++,Python,HTML,CSS,Javascript**
 
-I am fascinated by the concept of building complete web applications, from the front-end user interface to the back-end server-side logic. I enjoy creating interactive and dynamic websites that provide seamless user experiences. I have been actively exploring various technologies such as HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB, among others, to broaden my understanding of full stack development.
+- 📫 How to reach me **ha7014@srmist.edu.in**
 
-🌱 I’m currently learning >> HTML,CSS,JAVASCRIPT
+- ⚡ Fun fact **I'm a big fan of anime and I listen songs all the time**
 
-**GITHUB AND README.MD💽:**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hari aravindh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari aravindh" height="30" width="40" /></a>
+<a href="https://instagram.com/4ver.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="4ver.me" height="30" width="40" /></a>
+</p>
 
-As a part of my learning journey, I have been using GitHub extensively to manage my code repositories and collaborate with other developers. I believe that proper documentation is crucial in software development, and I take pride in creating informative and well-organized README.md files for my GitHub projects. I aim to provide clear instructions, installation steps, usage guidelines, and any other relevant information to ensure that fellow developers can easily understand and contribute to my projects.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**FUTURE GOALS🥇:**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariar2&show_icons=true&locale=en&layout=compact" alt="hariar2" /></p>
 
-My passion for full stack development drives me to continuously improve my skills and stay updated with the latest industry trends. In the future, I aspire to contribute to meaningful projects, collaborate with other developers, and make a positive impact in the world of web development.
-
-**CONCLUSION🖤:**
-
-In summary, I am a student from Chennai currently studying at SRM, with a strong interest in full stack development. I am enthusiastic about creating web applications and have been actively learning and implementing various technologies. I believe that effective documentation, including well-structured README.md files, is vital in software development, and I am committed to creating high-quality projects on GitHub. I am excited about my journey in the world of full stack development and the opportunities it holds for me in the future!
-
-### **BADGES:**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariAr2" />
-
-<!--
-**HariAr2/HariAr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning >>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariar2&show_icons=true&locale=en" alt="hariar2" /></p>
