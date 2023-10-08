@@ -1,4 +1,4 @@
-![logo](https://namespace.so/blog-images/namespace-github-runners/banner.png)
+![logo](https://github.com/HariAr2/HariAr2/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Hari Aravindh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
