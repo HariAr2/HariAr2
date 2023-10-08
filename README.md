@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hari Aravindh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariar2&label=Profile%20views&color=0e75b6&style=flat" alt="hariar2" /> </p>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariar2" alt="hariar2" /></a> </p>
 
