@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/ae/56/d1/ae56d10f023f455739a635e435732a94.gif)
+![logo](https://namespace.so/blog-images/namespace-github-runners/banner.png)
 <h1 align="center">Hi 👋, I'm Hari Aravindh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
