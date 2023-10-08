@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariar2" alt="hariar2" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🌱 I’m currently learning **Front End Development**
 
