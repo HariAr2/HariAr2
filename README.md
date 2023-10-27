@@ -13,7 +13,7 @@
 
 <img align="right" alt="coding" width="400" height="260" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Data Science Basics**
 
 - 💬 Ask me about **C,C++,Python,HTML,CSS,Javascript**
 
