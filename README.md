@@ -36,3 +36,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=HariAr2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HariAr2&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariAr2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![snake animation](https://github.com/<seu HariAr2>/<seu HariAr2>/blob/output/github-contribution-grid-snake2.svg)
