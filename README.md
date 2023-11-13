@@ -37,4 +37,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HariAr2&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariAr2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+[![Hari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HariAr2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
