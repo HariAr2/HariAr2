@@ -30,7 +30,6 @@
 # 🧣 Design:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![wakatime](https://wakatime.com/badge/user/018b4383-fa5b-4763-9812-f35cdf1cc9ad.svg)](https://wakatime.com/@018b4383-fa5b-4763-9812-f35cdf1cc9ad) 
 
 # 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HariAr2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
