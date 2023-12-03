@@ -8,8 +8,6 @@
 </div>
 
 
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HariAr2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
