@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hari Aravindh</h1>  
 <h3 align="center">A passionate Software developer from India</h3>
 
-    
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/HariAr2/count.svg?"/> 
