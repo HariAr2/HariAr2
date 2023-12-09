@@ -9,7 +9,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HariAr2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HariAr2&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 <img align="right" alt="coding" width="400" height="260" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
