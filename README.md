@@ -32,8 +32,9 @@
 
 
 # 📊 My Stats: 
-![](https://github-readme-stats.vercel.app/api?username=HariAr2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HariAr2&theme=dark&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariAr2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HariAr2&theme=dark&hide_border=false)
+
 
 [![Hari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HariAr2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HariAr2&bg_color=000000&color=e0edd4&line=4f7a28&point=96d35f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
