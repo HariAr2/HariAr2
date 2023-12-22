@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your Banner"> 
 <h1 align="center">Hi 👋, I'm Hari Aravindh</h1>   
-<h3 align="center">A passionate Software developer from India</h3>  
+<h3 align="center">A passionate software magician crafting digital marvels with innovation.</h3>  
    
   
 <div align="center"> 
@@ -13,13 +13,13 @@
 
 <img align="right" alt="coding" width="400" height="260" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🌱 I’m currently learning **Data Science Basics**
+- 🌱 Currently decoding the secrets of **Data Science.**
 
-- 💬 Ask me about **C,C++,Python,HTML,CSS,Javascript**
+- 💬 Dive into chats about **C, C++, Python and JavaScript** – like a multilingual wizard!
 
-- 📫 How to reach me **ha7014@srmist.edu.in**
-
-- ⚡ Fun fact **I'm a big fan of anime and I listen songs all the time**
+- 📫 Ping me at **ha7014@srmist.edu.in** for a magical connection!
+  
+- **⚡ Fun fact:** I'm an anime aficionado who listens to songs like my life depends on it – my playlist has a PhD in happiness!
 
 ## 🌐 Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4ver.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariar2) 
