@@ -21,7 +21,9 @@
   
 - **⚡ Fun fact:** I'm an anime aficionado who listens to songs like my life depends on it – my playlist has a PhD in happiness!
 
+
 ## 🌐 Contact Me:
+
 <div align="left">
   <a href="https://www.linkedin.com/in/hariar2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -32,6 +34,9 @@
 </div>
 
 ###
+
+
+
 
 # 💻 My Knowledge:
 <div align="left">
@@ -75,6 +80,9 @@
 </div>
 
 ###
+
+
+
 
 # 📊 My Stats: 
 
