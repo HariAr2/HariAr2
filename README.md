@@ -22,7 +22,7 @@
 - **⚡ Fun fact:** I'm an anime aficionado who listens to songs like my life depends on it – my playlist has a PhD in happiness!
 
 
-## 🌐 Contact Me:
+## 🌐 Contact Me: 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hariar2/" target="_blank">
