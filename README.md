@@ -5,7 +5,7 @@
    
 <div align="center"> 
   <img src="https://profile-counter.glitch.me/HariAr2/count.svg?"/> 
-</div>
+</div> 
 
 
 ## 🏆 GitHub Trophies
